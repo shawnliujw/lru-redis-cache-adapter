@@ -1,0 +1,6 @@
+node_modules
+logs
+typings
+build
+dist
+coverage
